@@ -1,0 +1,56 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1625" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/drawable/ic_add.xml" value="0.1585" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1585" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/drawable/ic_email.xml" value="0.154" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/drawable/ic_launcher_background.xml" value="0.16" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/drawable/ic_lock.xml" value="0.154" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/drawable/ic_logo.xml" value="0.1625" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/drawable/ic_menu.xml" value="0.1" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/drawable/ic_user.xml" value="0.154" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/drawable/ic_wave.xml" value="0.153" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/drawable/round_border.xml" value="0.154" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/drawable/round_button.xml" value="0.154" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/drawable/search_view_background.xml" value="0.2" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/drawable/switch_trcks.xml" value="0.152" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/drawable/switch_tumbs.xml" value="0.1485" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/activity_dang_nhap.xml" value="0.264" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/activity_main.xml" value="0.2513586956521739" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/activity_man_hinh_chao.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/activity_quen_mkactivity.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/dialog_chinhsua.xml" value="0.264" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/dialog_chinhsua_hoivien.xml" value="0.264" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/dialog_doimatkhau.xml" value="0.264" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/dialog_hoivien.xml" value="0.1" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/dialog_suagoi.xml" value="0.264" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/dialog_them_goi.xml" value="0.264" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/dialog_them_hoivien.xml" value="0.264" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/dialog_them_thehoivien.xml" value="0.264" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/fragment_doanhthu.xml" value="0.264" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/fragment_map.xml" value="0.2717391304347826" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/fragment_qlgoi.xml" value="0.264" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/fragment_qlhoivien.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/fragment_qlloaigoi.xml" value="0.264" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/fragment_qlloaisach.xml" value="0.1" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/fragment_qlthehoivien.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/header_layout.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/item_recycler_goi.xml" value="0.264" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/item_recycler_hoivien.xml" value="0.264" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/item_recycler_loaigoi.xml" value="0.264" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/layout/item_recycler_thehoivien.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/menu/menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/mipmap-anydpi-v26/ic_logo_gym.xml" value="0.1625" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/quanlyphonggym/app/src/main/res/mipmap-anydpi-v26/ic_logo_gym_round.xml" value="0.1625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

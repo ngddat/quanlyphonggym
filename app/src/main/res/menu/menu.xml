@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Trang chủ">
+        <menu>
+            <item
+                android:id="@+id/mQLHoiVien"
+                android:title="Quản lý hội viên"
+                android:icon="@drawable/people"/>
+            <item
+                android:id="@+id/mQLTheHoiVien"
+                android:title="Quản lý thẻ hội viên"
+                android:icon="@drawable/voucher"/>
+            <item
+                android:id="@+id/mQLGoi"
+                android:title="Quản lý gói tập"
+                android:icon="@drawable/list"/>
+            <item
+                android:id="@+id/mQLLoaiGoi"
+                android:title="Loại gói tập"
+                android:icon="@drawable/categories"/>
+        </menu>
+    </item>
+
+    <item android:title="Thống kê">
+        <menu>
+            <item
+                android:id="@+id/mQLDoanhThu"
+                android:title="Doanh thu"
+                android:icon="@drawable/salary"/>
+        </menu>
+    </item>
+
+    <item android:title="Tài khoản">
+        <menu>
+            <item
+                android:id="@+id/mDiaChi"
+                android:title="Địa chỉ"
+                android:icon="@drawable/map"/>
+            <item
+                android:id="@+id/mDoiMatKhau"
+                android:title="Đổi mật khẩu"
+                android:icon="@drawable/password"/>
+            <item
+                android:id="@+id/mThoat"
+                android:title="Thoát"
+                android:icon="@drawable/checkout"/>
+        </menu>
+    </item>
+
+</menu>

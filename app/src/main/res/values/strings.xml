@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Đạt GYM</string>
+
+    <string name="title_fragment_maps">MapFragment</string>
+    <string name="ban_do">AIzaSyA8moNnCAR-QyIDRyDHvFUPAqbbk1P397o</string>
+
+    <string name="faceboock_app_id">1131004287585192</string>
+    <string name="facebook_client_token">900bfa877951a07566b72c87c265d29e</string>
+</resources>

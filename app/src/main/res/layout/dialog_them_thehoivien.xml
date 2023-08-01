@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hội viên"
+        android:textStyle="bold"
+        android:textColor="@color/ic_logo_gym_background"
+        android:textSize="22sp"
+        android:gravity="center"
+        android:background="@color/black"/>
+    <Spinner
+        android:id="@+id/spnHoiVien"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gói tập"
+        android:textStyle="bold"
+        android:textColor="@color/ic_logo_gym_background"
+        android:textSize="22sp"
+        android:gravity="center"
+        android:background="@color/black"/>
+    <Spinner
+        android:id="@+id/spnGoiTap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
